@@ -1,5 +1,5 @@
 # Tomask4
-
+<p> <img src="https://komarev.com/ghpvc/?username=tomask4&label=Profile%20views&color=00cd00&style=flat" alt="tomask4" /> </p>
 I am a developer focused on building functional web tools, browser utilities, and exploring hardware automation. My repositories reflect a mix of client-side web modifications, practical tools, and personal experiments.
 
 ## Focus & Interests
